@@ -1,0 +1,6 @@
+# -*- mode:org -*-
+#+TITLE: maxima.el
+#+STARTUP: indent
+#+OPTIONS: toc:nil
+literally just copied this from the maxima folder homebrew produced, see releases
+** Overview :TOC:
